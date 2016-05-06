@@ -1,0 +1,11 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "a task manager tool to get shit done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Palermo Deschamps",
+  "license": "ISC"
+}
