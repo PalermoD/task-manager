@@ -17,6 +17,10 @@ const common = {
 		path: PATHS.build,
 		filename: 'bundle.js'
 	},
+	// add resolve 
+	resolve {
+        extensions:: ['', '.js', '.jsx']
+	},
 	module: {
 		loaders: [
 		{
